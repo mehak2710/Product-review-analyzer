@@ -1,5 +1,5 @@
 
-# 📦 **Product Review Sentiment Analyzer — Streamlit App**
+# 📦 **Product Review Sentiment Analyzer 
 
 An interactive **NLP-based sentiment analyzer** that processes e-commerce product reviews and generates **actionable insights** using Python, Streamlit, and data visualization libraries.
 The app allows users to load sample reviews or paste their own, and instantly view sentiment summaries, distribution charts, and keyword-based word clouds.
